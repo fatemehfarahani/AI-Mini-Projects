@@ -53,9 +53,6 @@ This project demonstrates a simple and practical example of object detection usi
 - Confidence Threshold  
   The default threshold is 0.2. You can change this value to display only detections with higher or lower confidence.
 
-## Example Output
-
-![Sample Output](Detected.png)  
 
 ## Notes
 

@@ -57,9 +57,6 @@ This project demonstrates a modular and extensible approach to **object detectio
 - **Image URL:**  
   Replace the `image_url` variable with your own image link.
 
-## Example Output
-
-![Sample Output](Detected.png)
 
 ## Notes
 
